@@ -1,0 +1,9 @@
+# requirements.txt
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+chromadb
+pypdf
+sentence-transformers
+unstructured[pdf]
